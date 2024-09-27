@@ -1,4 +1,2 @@
-PLEASE READ ME
-Modify main branch
-Modify desenvolvimento branch
 
+Please READ ME
